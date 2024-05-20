@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReelTalent</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="logo">logo</string>
+    <string name="Registrarse" />
+    <string name="bienvenido_a">bienvenido a</string>
+    <string name="registrarse">Registrarse</string>
+</resources>
